@@ -1,0 +1,7 @@
+{
+  "name": "Primesoft CBISA",
+  "description": "Sistema de gestão agrícola full-stack com integração Supabase e IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
